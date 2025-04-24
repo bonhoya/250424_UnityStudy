@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class Test : MonoBehaviour
 {
-    private float testing = 30;
+    private float testing = 15;
 }
